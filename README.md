@@ -2,6 +2,7 @@
 
 #### Name: 楊皓丞
 #### Student ID: 109703008
+#### Department: 資科三
 #### ShinyApps link: [<https://yanghaocheng.shinyapps.io/NCCU_DS2023_hw4_109703008/>]
 
 ## Description
